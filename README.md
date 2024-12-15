@@ -1,1 +1,2 @@
-# Frontend-FER2013
+### NOTE
+I want to mention that i did try to deploy it. But there was a problem with my kaggle notebook. It was glitchy at times and whatever i did try to save the model was in vain. In the output section of the notebook nothing was there. It wasn't able to save the model in h5 format. I did try testing the model and gives a correct answer for almost all classes 3/5 times except for disgust because the data is underepresented (you can see the confusion matrix). I couldn't run it on my local system as the task was intensive(Image processing was causing system to heat up) and I don't have a GPU :( .
